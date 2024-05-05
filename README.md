@@ -1,7 +1,10 @@
 # stock_exchange
 
 
-https://github.com/rohitbr/stock_exchange/assets/1514130/8042ccbf-ce60-45ff-8702-2a7f8f1d109c
+
+
+https://github.com/rohitbr/stock_exchange/assets/1514130/59583aa3-7e1c-417a-90af-c3cc14d22f60
+
 
 
 
